@@ -1,0 +1,27 @@
+{
+  "name": "crmtestpro",
+  "version": "1.0.0",
+  "description": "CRM Test pro",
+  "main": "crmtestpro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinitnayak/crmtestpro.git"
+  },
+  "author": "WinITN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinitnayak/crmtestpro/issues"
+  },
+  "homepage": "https://github.com/vinitnayak/crmtestpro#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.9",
+    "mongoose": "^4.5.10",
+    "morgan": "^1.7.0"
+  }
+}
